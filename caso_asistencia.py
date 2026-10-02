@@ -1,3 +1,5 @@
+# sistema de control de colas
+print('Bienvenido al sistema')
 cola = ['Sofia', 'Mateo', 'Valeria']
 while True:
     menu = '(1) Registrar estudiante regular\n(2) Registrar estudiante prioritario\n(3) Cancelar una solicitud\n(4) Atender al siguiente estudiante\n(5) Consultar la cola\n(6) Cerrar el sistema'
